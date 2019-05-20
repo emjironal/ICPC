@@ -27,3 +27,9 @@
 *.out
 *.app
 *.class
+
+# I/O
+
+input
+out
+result
